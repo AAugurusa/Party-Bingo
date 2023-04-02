@@ -538,7 +538,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4481978045410364,
+        "zoomFactor": 0.3925161175488231,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2896,7 +2896,7 @@
                       "parameters": [
                         "WinnerText",
                         "=",
-                        "GlobalVariableString(UserName) + \" Wins!\""
+                        "GlobalVariableString(UserName) + \" Bingo!\""
                       ]
                     }
                   ]
